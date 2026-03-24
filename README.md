@@ -69,6 +69,7 @@
 |---------|-------------|------------|
 | [Colour Changer](https://github.com/sum347173-creator/PROJECT-FIRST) | in this project i use js to click on container the background colour change | HTML,CSS,JAVASCRIPT |
 | [BMI-Calculator](https://github.com/sum347173-creator/Bmi--Calculator) | Build a BMI-Calculator  | HTML, CSS, JavaScript |
+| [PWskill page](| [BMI-Calculator](https://github.com/sum347173-creator/Bmi--Calculator) | Build a Pw skill page  | html, Tailwind CSS,  |) 
 
 > 💡 *Replace the table above with your actual projects once you add proper READMEs to them.*
 
