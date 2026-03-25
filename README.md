@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sumant Tiwary]</h1>
+<h1 align="center">Hi 👋, I'm Sumant Tiwary</h1>
 <h3 align="center">Full Stack Developer | Computer Science Student | Building Real-World Applications</h3>
 
 <p align="center">
@@ -9,12 +9,17 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **3rd-year Computer Science (CS)** student
-- 💻 I'm a **Full Stack Developer** passionate about building impactful applications
-- 🔭 Currently working on **[mention your current project name]**
-- 🌱 Currently learning **[e.g., System Design / DevOps / Advanced React]**
-- 🤝 Open to **collaborating on full-stack and real-world projects**
-- ⚡ Fun fact: I love turning ideas into working applications
+🎓 3rd-year Computer Science student with a strong foundation in programming and software development
+
+💻 Full Stack Developer passionate about building scalable and impactful web applications
+
+🔭 Currently working on real-world projects that solve practical problems
+
+🌱 Continuously learning System Design, DevOps, and Advanced React to enhance my development skills
+
+🤝 Open to collaborating on innovative full-stack projects and contributing to meaningful applications
+
+⚡ Fun fact: I love turning ideas into functional, user-friendly applications
 
 ---
 
