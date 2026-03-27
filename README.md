@@ -75,7 +75,7 @@
 | [Colour Changer](https://github.com/sum347173-creator/PROJECT-FIRST) | in this project i use js to click on container the background colour change | HTML,CSS,JAVASCRIPT |
 | [BMI-Calculator](https://github.com/sum347173-creator/Bmi--Calculator) | Build a BMI-Calculator  | HTML, CSS, JavaScript 
 | [PWskill page](https://github.com/sum347173-creator/PW-Page-clone-project) | Build a Pw skill page  | html, Tailwind CSS,  |) 
-| [Vloora e-commers](https://github.com/sum347173-creator/VLOORA-E-COMM-CLONE.gi)| Build  a e-commers | html,js,tailwind|)
+| [Vloora e-commers](https://github.com/sum347173-creator/VLOORA-E-COMM-CLONE)| Build  a e-commers | html,js,tailwind|)
 
 > 💡 *Replace the table above with your actual projects once you add proper READMEs to them.*
 
