@@ -77,6 +77,7 @@
 | [PWskill page](https://github.com/sum347173-creator/PW-Page-clone-project) | Build a Pw skill page  | html, Tailwind CSS,  |) 
 | [Vloora e-commers](https://github.com/sum347173-creator/VLOORA-E-COMM-CLONE)| Build  a e-commers | html,js,tailwind|)
 | [trello-clone]( https://github.com/sum347173-creator/trello-clone )|Build a Trello Clone| using frontand backend ,supabase|)
+| [Tast Blast](https://github.com/sum347173-creator/taskblast) | Build a Task management System | using js,tailwind css ,supabase|)
 
 
 
