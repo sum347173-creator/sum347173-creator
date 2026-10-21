@@ -79,6 +79,7 @@
 | [trello-clone]( https://github.com/sum347173-creator/trello-clone )|Build a Trello Clone| using frontand backend ,supabase|)
 | [Tast Blast](https://github.com/sum347173-creator/taskblast) | Build a Task management System | using js,tailwind css ,supabase|)
 | [ShopeEasy](https://github.com/sum347173-creator/Shope-Easy-react--project)| Build shopeEasy for E-commers| using react ,springboot,jsw,mysql|)
+[AEQDF Quishing Detection](https://github.com/sum347173-creator/aeqdf-quishing-detection) | ML-based detection of malicious QR-code phishing | Python, scikit-learn, FastAPI, Node.js |
 
 
 ---
@@ -86,7 +87,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sumanttiwary/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@gmail.com">
