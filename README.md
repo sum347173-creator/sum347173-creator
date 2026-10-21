@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Computer Science Student | Building Real-World Applications</h3>
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views..." alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sum347173-creator&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
