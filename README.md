@@ -1,13 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sumant Tiwary</h1>
-<h3 align="center">Full Stack Developer | Computer Science Student | Building Real-World Applications</h3>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumant%20Tiwary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descSize=18&descAlignY=60" alt="Sumant Tiwary banner"/>
+</p>
 
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Real-World+Applications;React+%7C+Node.js+%7C+Spring+Boot;Learning+ML+%26+Cybersecurity;Turning+ideas+into+working+products" alt="Typing animation"/>
+</p>
+
+<!-- CONTACT BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sumanttiwary/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:sum347173@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://github.com/sum347173-creator?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-13-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sum347173-creator?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/sum347173-creator?style=social" alt="Stars"/>
 </p>
 
 ---
@@ -24,44 +40,13 @@
 
 🤝 Open to collaborating on innovative full-stack projects
 
-⚡ Fun fact: I love turning ideas into functional, user-friendly applications
-
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,spring,python,fastapi,mongodb,mysql,supabase,git,github,docker,postman,vscode&perline=7" alt="Tech stack"/>
+</p>
 
 ---
 
@@ -71,8 +56,8 @@
 |---------|-------------|------------|
 | [AEQDF Quishing Detection](https://github.com/sum347173-creator/aeqdf-quishing-detection) | ML-based detection of malicious QR-code phishing | Python, scikit-learn, FastAPI, Node.js |
 | [ShopEasy](https://github.com/sum347173-creator/Shope-Easy-react--project) | Full-stack e-commerce application | React, Spring Boot, JSP, MySQL |
-| [Task Blast](https://github.com/sum347173-creator/taskblast) | Task management system | JavaScript, Tailwind CSS, Supabase |
-| [Trello Clone](https://github.com/sum347173-creator/trello-clone) | Trello clone with frontend and backend | JavaScript, Supabase |
+| [Task Blast](https://github.com/sum347173-creator/taskblast) | Team task management system | JavaScript, Tailwind CSS, Supabase |
+| [Trello Clone](https://github.com/sum347173-creator/trello-clone) | Trello clone with frontend and backend | TypeScript, Supabase |
 | [Vloora E-commerce](https://github.com/sum347173-creator/VLOORA-E-COMM-CLONE) | E-commerce website clone | HTML, JavaScript, Tailwind CSS |
 | [PW Skills Page](https://github.com/sum347173-creator/PW-Page-clone-project) | PW Skills landing page clone | HTML, Tailwind CSS |
 | [BMI Calculator](https://github.com/sum347173-creator/Bmi--Calculator) | BMI calculator | HTML, CSS, JavaScript |
@@ -94,6 +79,16 @@
 
 ---
 
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+</p>
+
+---
+
 <p align="center">
   <i>"Code is not just syntax — it's the bridge between ideas and reality."</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
