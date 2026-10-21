@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumant Tiwary</h1>
 <h3 align="center">Full Stack Developer | Computer Science Student | Building Real-World Applications</h3>
 
-   <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=..." alt="Profile Views"/>
-   </p>
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views..." alt="Profile Views"/>
+</p>
 
 ---
 
