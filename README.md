@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumant Tiwary</h1>
 <h3 align="center">Full Stack Developer | Computer Science Student | Building Real-World Applications</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sum347173-creator&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+   <p align="center">
+     <img src="https://komarev.com/ghpvc/?username=..." alt="Profile Views"/>
+   </p>
 
 ---
 
