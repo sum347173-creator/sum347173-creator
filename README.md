@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumant%20Tiwary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descSize=18&descAlignY=60" alt="Sumant Tiwary banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumant%20Tiwary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Final%20Year%20CS%20Student&descSize=18&descAlignY=60" alt="Sumant Tiwary banner"/>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Real-World+Applications;React+%7C+Node.js+%7C+Spring+Boot;Learning+ML+%26+Cybersecurity;Turning+ideas+into+working+products" alt="Typing animation"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+MongoDB+%7C+React;Final+Year+CS+Student;Building+Real-World+Applications" alt="Typing animation"/>
 </p>
 
 <!-- CONTACT BADGES -->
@@ -30,16 +30,15 @@
 
 ### 👨‍💻 About Me
 
-🎓 3rd-year Computer Science student with a strong foundation in programming and software development
+🎓 Final-year Computer Science student with a strong foundation in Java and software development
 
-💻 Full Stack Developer passionate about building scalable and impactful web applications
+💻 Java Full Stack Developer building scalable web applications with Spring Boot, MongoDB and React
 
 🔭 Currently working on **AEQDF**, a machine-learning system that detects QR-code phishing (quishing)
 
-🌱 Continuously learning System Design, DevOps, and Advanced React
+🌱 Continuously learning System Design, Microservices and DevOps
 
-🤝 Open to collaborating on innovative full-stack projects
-
+🤝 Open to collaborating on full-stack projects and looking for entry-level Java Developer roles
 ---
 
 ### 🛠️ Tech Stack
