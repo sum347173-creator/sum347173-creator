@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/sum347173-creator?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-13-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Repositories-11-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </p>
 
@@ -34,11 +34,12 @@
 
 💻 Java Full Stack Developer building scalable web applications with Spring Boot, MongoDB and React
 
-🔭 Currently working on **AEQDF**, a machine-learning system that detects QR-code phishing (quishing)
+🔭 Built and deployed **AEQDF**, a machine-learning system that detects QR-code phishing (quishing)
 
 🌱 Continuously learning System Design, Microservices and DevOps
 
 🤝 Open to collaborating on full-stack projects and looking for entry-level Java Developer roles
+
 ---
 
 ### 🛠️ Tech Stack
@@ -51,26 +52,20 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [AEQDF Quishing Detection](https://github.com/sum347173-creator/aeqdf-quishing-detection) | ML-based detection of malicious QR-code phishing | Python, scikit-learn, FastAPI, Node.js |
-| [ShopEasy](https://github.com/sum347173-creator/Shope-Easy-react--project) | Full-stack e-commerce application | React, Spring Boot, JSP, MySQL |
-| [Task Blast](https://github.com/sum347173-creator/taskblast) | Team task management system | JavaScript, Tailwind CSS, Supabase |
-| [Trello Clone](https://github.com/sum347173-creator/trello-clone) | Trello clone with frontend and backend | TypeScript, Supabase |
-| [Vloora E-commerce](https://github.com/sum347173-creator/VLOORA-E-COMM-CLONE) | E-commerce website clone | HTML, JavaScript, Tailwind CSS |
-| [PW Skills Page](https://github.com/sum347173-creator/PW-Page-clone-project) | PW Skills landing page clone | HTML, Tailwind CSS |
-| [BMI Calculator](https://github.com/sum347173-creator/Bmi--Calculator) | BMI calculator | HTML, CSS, JavaScript |
-| [Colour Changer](https://github.com/sum347173-creator/PROJECT-FIRST) | Changes the background colour when a container is clicked | HTML, CSS, JavaScript |
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| [AEQDF Quishing Detection](https://github.com/sum347173-creator/aeqdf-quishing-detection) | ML-based detection of malicious QR-code phishing | Python, scikit-learn, FastAPI, Node.js | [Open](https://aesthetic-palmier-95edea.netlify.app) |
+| [ShopEasy](https://github.com/sum347173-creator/Shope-Easy-react--project) | Full-stack e-commerce application | React, Spring Boot, JSP, MySQL | [Open](https://shopeasy-sumant.netlify.app) |
+| [Task Blast](https://github.com/sum347173-creator/taskblast) | Team task management system | JavaScript, Tailwind CSS, Supabase | - |
+| [Trello Clone](https://github.com/sum347173-creator/trello-clone) | Task management app with boards, lists and cards | Next.js, TypeScript, Clerk, Supabase | [Open](https://trello-clone-sumant.netlify.app) |
+| [Velora E-commerce](https://github.com/sum347173-creator/VLOORA-E-COMM-CLONE) | E-commerce website clone | HTML, JavaScript, Tailwind CSS | [Open](https://velora-sumant.netlify.app) |
+| [PW Skills Page](https://github.com/sum347173-creator/PW-Page-clone-project) | PW Skills landing page clone | HTML, Tailwind CSS | - |
+| [BMI Calculator](https://github.com/sum347173-creator/Bmi--Calculator) | BMI calculator | HTML, CSS, JavaScript | - |
+| [Colour Changer](https://github.com/sum347173-creator/PROJECT-FIRST) | Changes the background colour when a container is clicked | HTML, CSS, JavaScript | - |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sum347173-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sum347173-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
+### 📊 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sum347173-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
