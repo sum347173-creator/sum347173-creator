@@ -62,6 +62,7 @@
 | [PW Skills Page](https://github.com/sum347173-creator/PW-Page-clone-project) | PW Skills landing page clone | HTML, Tailwind CSS | - |
 | [BMI Calculator](https://github.com/sum347173-creator/Bmi--Calculator) | BMI calculator | HTML, CSS, JavaScript | - |
 | [Colour Changer](https://github.com/sum347173-creator/PROJECT-FIRST) | Changes the background colour when a container is clicked | HTML, CSS, JavaScript | - |
+ [3D Developer Portfolio](https://github.com/sum347173-creator/sumant-portfolio-3d) | Interactive portfolio with an animated 3D Three.js hero, project showcase and résumé section | HTML, CSS, JavaScript, Three.js | [Open](https://sumant-portfolio-3d.netlify.app/) 
 
 ---
 
