@@ -56,8 +56,7 @@
 |---------|-------------|------------|-----------|
 | [AEQDF Quishing Detection](https://github.com/sum347173-creator/aeqdf-quishing-detection) | ML-based detection of malicious QR-code phishing | Python, scikit-learn, FastAPI, Node.js | [Open](https://aesthetic-palmier-95edea.netlify.app) |
 | [ShopEasy](https://github.com/sum347173-creator/Shope-Easy-react--project) | Full-stack e-commerce application | React, Spring Boot, JSP, MySQL | [Open](https://shopeasy-sumant.netlify.app) |
-| [Task Blast](https://github.com/sum347173-creator/taskblast) | Team task management system | JavaScript, Tailwind CSS, Supabase  |
-[Open](https://taskblast-sumant.netlify.app/) 
+| [Task Blast](https://github.com/sum347173-creator/taskblast) | Team task management system | JavaScript, Tailwind CSS, Supabase  |[Open](https://taskblast-sumant.netlify.app/) 
 | [Trello Clone](https://github.com/sum347173-creator/trello-clone) | Task management app with boards, lists and cards | Next.js, TypeScript, Clerk, Supabase | [Open](https://trello-clone-sumant.netlify.app) |
 | [Velora E-commerce](https://github.com/sum347173-creator/VLOORA-E-COMM-CLONE) | E-commerce website clone | HTML, JavaScript, Tailwind CSS | [Open](https://velora-sumant.netlify.app) |
 | [PW Skills Page](https://github.com/sum347173-creator/PW-Page-clone-project) | PW Skills landing page clone | HTML, Tailwind CSS | - |
